@@ -44,8 +44,9 @@
   },
   "homepage": "https://github.com/googlemaps/google-maps-services-js",
   "dependencies": {
-    "uuid": ">=2.2.1",
-    "util": "^0.11.0"
+    "url": "^0.11.0",
+    "util": "^0.11.0",
+    "uuid": ">=2.2.1"
   },
   "devDependencies": {
     "jasmine": ">=2.3.2 <2.5.0",
